@@ -1,0 +1,7 @@
+name,url,username,password,note
+Example Forum,https://forum.example.org,sneha.demo,Gx8!pQ3#wZ6$rT1v,
+Example News,news.example.com,sneha.demo@example.com,Kp2@vL9!mX4#qR7z,Weekly newsletter
+,https://photos.example.net/login,sneha.demo,Ty6#bN1!cV8$xW3q,
+Example Games,https://games.example.com,,,Missing password
+Example Forum,https://forum.example.org,sneha.demo,Different!Pass99,Duplicate of line 2
+Bad Website,not a website,sneha,Qw7!eR4#tY1$uI8o,

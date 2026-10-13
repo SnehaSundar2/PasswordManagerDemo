@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+pwmanager.log
+data/
+*.pmv
+*.pmv.bak
+passwords_export.csv
+*_export.csv
